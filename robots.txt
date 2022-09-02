@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ianpundar.github.io/sitemap.xml
+Sitemap: https://yuangpeng.cn/sitemap.xml

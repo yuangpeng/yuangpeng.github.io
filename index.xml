@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yuang&#39;s Blog</title>
-    <link>https://ianpundar.github.io/</link>
+    <link>https://yuangpeng.cn/</link>
     <description>Recent content on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 May 2022 20:38:37 +0800</lastBuildDate><atom:link href="https://ianpundar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 May 2022 20:38:37 +0800</lastBuildDate><atom:link href="https://yuangpeng.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://ianpundar.github.io/posts/test/</link>
+      <link>https://yuangpeng.cn/posts/test/</link>
       <pubDate>Tue, 03 May 2022 20:38:37 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/test/</guid>
+      <guid>https://yuangpeng.cn/posts/test/</guid>
       <description>文章的描述信息</description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>https://ianpundar.github.io/posts/cnn-copy-2/</link>
+      <link>https://yuangpeng.cn/posts/cnn-copy-2/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/cnn-copy-2/</guid>
+      <guid>https://yuangpeng.cn/posts/cnn-copy-2/</guid>
       <description>Introduction to CNN</description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>https://ianpundar.github.io/posts/cnn-copy-3/</link>
+      <link>https://yuangpeng.cn/posts/cnn-copy-3/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/cnn-copy-3/</guid>
+      <guid>https://yuangpeng.cn/posts/cnn-copy-3/</guid>
       <description>Introduction to CNN</description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>https://ianpundar.github.io/posts/cnn-copy-4/</link>
+      <link>https://yuangpeng.cn/posts/cnn-copy-4/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/cnn-copy-4/</guid>
+      <guid>https://yuangpeng.cn/posts/cnn-copy-4/</guid>
       <description>Introduction to CNN</description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>https://ianpundar.github.io/posts/cnn-copy-5/</link>
+      <link>https://yuangpeng.cn/posts/cnn-copy-5/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/cnn-copy-5/</guid>
+      <guid>https://yuangpeng.cn/posts/cnn-copy-5/</guid>
       <description>Introduction to CNN</description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>https://ianpundar.github.io/posts/cnn-copy/</link>
+      <link>https://yuangpeng.cn/posts/cnn-copy/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/cnn-copy/</guid>
+      <guid>https://yuangpeng.cn/posts/cnn-copy/</guid>
       <description>Introduction to CNN</description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>https://ianpundar.github.io/posts/cnn/</link>
+      <link>https://yuangpeng.cn/posts/cnn/</link>
       <pubDate>Fri, 18 Mar 2022 09:59:06 +0800</pubDate>
       
-      <guid>https://ianpundar.github.io/posts/cnn/</guid>
+      <guid>https://yuangpeng.cn/posts/cnn/</guid>
       <description>Introduction to CNN</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://ianpundar.github.io/about/</link>
+      <link>https://yuangpeng.cn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ianpundar.github.io/about/</guid>
+      <guid>https://yuangpeng.cn/about/</guid>
       <description></description>
     </item>
     
