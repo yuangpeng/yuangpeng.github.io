@@ -2,39 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuangpeng.cn/posts/</loc>
-    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/test/</loc>
-    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/</loc>
-    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/cnn-copy-2/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/cnn-copy-3/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/cnn-copy-4/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/cnn-copy-5/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/cnn-copy/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/posts/cnn/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/tags/deep-learning/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
-    <loc>https://yuangpeng.cn/tags/</loc>
-    <lastmod>2022-03-18T09:59:06+08:00</lastmod>
-  </url><url>
     <loc>https://yuangpeng.cn/about/</loc>
   </url><url>
     <loc>https://yuangpeng.cn/archive/</loc>
@@ -42,5 +9,9 @@
     <loc>https://yuangpeng.cn/categories/</loc>
   </url><url>
     <loc>https://yuangpeng.cn/search/</loc>
+  </url><url>
+    <loc>https://yuangpeng.cn/tags/</loc>
+  </url><url>
+    <loc>https://yuangpeng.cn/</loc>
   </url>
 </urlset>
