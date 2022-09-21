@@ -5,7 +5,17 @@
     <link>https://yuangpeng.cn/</link>
     <description>Recent content on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://yuangpeng.cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 03 May 2022 20:38:37 +0800</lastBuildDate><atom:link href="https://yuangpeng.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://yuangpeng.cn/posts/test/</link>
+      <pubDate>Tue, 03 May 2022 20:38:37 +0800</pubDate>
+      
+      <guid>https://yuangpeng.cn/posts/test/</guid>
+      <description>文章的描述信息</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://yuangpeng.cn/about/</link>

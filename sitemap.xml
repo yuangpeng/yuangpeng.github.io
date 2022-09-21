@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yuangpeng.cn/posts/</loc>
+    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
+  </url><url>
+    <loc>https://yuangpeng.cn/posts/test/</loc>
+    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
+  </url><url>
+    <loc>https://yuangpeng.cn/</loc>
+    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
+  </url><url>
     <loc>https://yuangpeng.cn/about/</loc>
   </url><url>
     <loc>https://yuangpeng.cn/archive/</loc>
@@ -11,7 +20,5 @@
     <loc>https://yuangpeng.cn/search/</loc>
   </url><url>
     <loc>https://yuangpeng.cn/tags/</loc>
-  </url><url>
-    <loc>https://yuangpeng.cn/</loc>
   </url>
 </urlset>
