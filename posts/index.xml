@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Yuang&#39;s Blog</title>
-    <link>https://yuangpeng.cn/posts/</link>
+    <link>https://www.yuangpeng.cn/posts/</link>
     <description>Recent content in Posts on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 May 2022 20:38:37 +0800</lastBuildDate><atom:link href="https://yuangpeng.cn/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2022 19:40:11 +0800</lastBuildDate><atom:link href="https://www.yuangpeng.cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://yuangpeng.cn/posts/test/</link>
-      <pubDate>Tue, 03 May 2022 20:38:37 +0800</pubDate>
+      <title>Understanding Diffusion Models: A Unified Perspective</title>
+      <link>https://www.yuangpeng.cn/posts/understanding-diffusion-models-a-unified-perspective/</link>
+      <pubDate>Sat, 24 Sep 2022 19:40:11 +0800</pubDate>
       
-      <guid>https://yuangpeng.cn/posts/test/</guid>
-      <description>文章的描述信息</description>
+      <guid>https://www.yuangpeng.cn/posts/understanding-diffusion-models-a-unified-perspective/</guid>
+      <description>Introduction: Generative Models 给定某一分布的观测数据 \(\{\mathbf{x}_1,\mathbf{x}_2,\dots,\mathbf{x}_n\}\)，生成模</description>
     </item>
     
   </channel>

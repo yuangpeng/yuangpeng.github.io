@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yuangpeng.cn/posts/</loc>
-    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
+    <loc>https://www.yuangpeng.cn/tags/deep-learning/</loc>
+    <lastmod>2022-09-24T19:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://yuangpeng.cn/posts/test/</loc>
-    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
+    <loc>https://www.yuangpeng.cn/tags/diffusion-model/</loc>
+    <lastmod>2022-09-24T19:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://yuangpeng.cn/</loc>
-    <lastmod>2022-05-03T20:38:37+08:00</lastmod>
+    <loc>https://www.yuangpeng.cn/posts/</loc>
+    <lastmod>2022-09-24T19:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://yuangpeng.cn/about/</loc>
+    <loc>https://www.yuangpeng.cn/tags/</loc>
+    <lastmod>2022-09-24T19:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://yuangpeng.cn/archive/</loc>
+    <loc>https://www.yuangpeng.cn/posts/understanding-diffusion-models-a-unified-perspective/</loc>
+    <lastmod>2022-09-24T19:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://yuangpeng.cn/categories/</loc>
+    <loc>https://www.yuangpeng.cn/</loc>
+    <lastmod>2022-09-24T19:40:11+08:00</lastmod>
   </url><url>
-    <loc>https://yuangpeng.cn/search/</loc>
+    <loc>https://www.yuangpeng.cn/about/</loc>
   </url><url>
-    <loc>https://yuangpeng.cn/tags/</loc>
+    <loc>https://www.yuangpeng.cn/archive/</loc>
+  </url><url>
+    <loc>https://www.yuangpeng.cn/categories/</loc>
+  </url><url>
+    <loc>https://www.yuangpeng.cn/search/</loc>
   </url>
 </urlset>
