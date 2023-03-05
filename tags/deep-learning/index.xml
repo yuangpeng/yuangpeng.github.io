@@ -13,7 +13,7 @@
       <pubDate>Sat, 24 Sep 2022 19:40:11 +0800</pubDate>
       
       <guid>https://www.yuangpeng.cn/posts/understanding-diffusion-models-a-unified-perspective/</guid>
-      <description>Introduction: Generative Models 给定某一分布的观测数据 \(\{\mathbf{x}_1,\mathbf{x}_2,\dots,\mathbf{x}_n\}\)，生成模</description>
+      <description>Introduction: Generative Models 给定某一分布的观测数据 ${\mathbf{x}_1,\mathbf{x}_2,\dots,\mathbf{x}_n}$，生成模型的目标</description>
     </item>
     
   </channel>
