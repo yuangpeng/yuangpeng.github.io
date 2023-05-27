@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Yuang&#39;s Blog</title>
-    <link>https://www.yuangpeng.cn/tags/</link>
+    <link>https://www.yuangpeng.com/tags/</link>
     <description>Recent content in Tags on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Sep 2022 19:40:11 +0800</lastBuildDate><atom:link href="https://www.yuangpeng.cn/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2022 19:40:11 +0800</lastBuildDate><atom:link href="https://www.yuangpeng.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deep Learning</title>
-      <link>https://www.yuangpeng.cn/tags/deep-learning/</link>
+      <link>https://www.yuangpeng.com/tags/deep-learning/</link>
       <pubDate>Sat, 24 Sep 2022 19:40:11 +0800</pubDate>
       
-      <guid>https://www.yuangpeng.cn/tags/deep-learning/</guid>
+      <guid>https://www.yuangpeng.com/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diffusion Model</title>
-      <link>https://www.yuangpeng.cn/tags/diffusion-model/</link>
+      <link>https://www.yuangpeng.com/tags/diffusion-model/</link>
       <pubDate>Sat, 24 Sep 2022 19:40:11 +0800</pubDate>
       
-      <guid>https://www.yuangpeng.cn/tags/diffusion-model/</guid>
+      <guid>https://www.yuangpeng.com/tags/diffusion-model/</guid>
       <description></description>
     </item>
     

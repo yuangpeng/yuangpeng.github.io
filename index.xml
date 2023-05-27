@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yuang&#39;s Blog</title>
-    <link>https://www.yuangpeng.cn/</link>
+    <link>https://www.yuangpeng.com/</link>
     <description>Recent content on Yuang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Sep 2022 19:40:11 +0800</lastBuildDate><atom:link href="https://www.yuangpeng.cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Sep 2022 19:40:11 +0800</lastBuildDate><atom:link href="https://www.yuangpeng.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Diffusion Models: A Unified Perspective</title>
-      <link>https://www.yuangpeng.cn/posts/understanding-diffusion-models-a-unified-perspective/</link>
+      <link>https://www.yuangpeng.com/posts/understanding-diffusion-models-a-unified-perspective/</link>
       <pubDate>Sat, 24 Sep 2022 19:40:11 +0800</pubDate>
       
-      <guid>https://www.yuangpeng.cn/posts/understanding-diffusion-models-a-unified-perspective/</guid>
+      <guid>https://www.yuangpeng.com/posts/understanding-diffusion-models-a-unified-perspective/</guid>
       <description>Introduction: Generative Models 给定某一分布的观测数据 ${\mathbf{x}_1,\mathbf{x}_2,\dots,\mathbf{x}_n}$，生成模型的目标</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.yuangpeng.cn/about/</link>
+      <link>https://www.yuangpeng.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.yuangpeng.cn/about/</guid>
+      <guid>https://www.yuangpeng.com/about/</guid>
       <description></description>
     </item>
     
