@@ -38,6 +38,14 @@
   "volunteer": [],
   "education": [
     {
+      "institution": "Wuhan University, Hubei, China",
+      "url": "http://www.whu.edu.cn",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "2023"
+    },
+    {
       "institution": "University of Zurich, Zurich, Switzerland",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
