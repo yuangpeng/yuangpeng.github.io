@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yuang
 middle_name:
 last_name: Peng
-email: yuangpeng.cn@gmail.com
+# email: yuangpeng.cn@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal website of Yang Song.
 footer_text: >
@@ -115,7 +115,7 @@ contact_note: >
 # -----------------------------------------------------------------------------
 
 google_analytics: G-YSMFPLXM09 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
+cronitor_analytics: 2b9f79fd67cb2a63fb3cb709676f7d4e # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -124,7 +124,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Yuang Peng's learning notes # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
@@ -152,7 +152,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: yuangpeng # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
