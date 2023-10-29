@@ -114,7 +114,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-YSMFPLXM09 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-1PXPLJH1FH # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: 2b9f79fd67cb2a63fb3cb709676f7d4e # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -141,13 +141,13 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo:                          # <your-github-user-name>/<your-github-repo-name>
-  category: Comments             # name of the category under which discussions will be created
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
+  repo: yuangpeng/yuangpeng.github.io # <your-github-user-name>/<your-github-repo-name>
+  category: Comments                  # name of the category under which discussions will be created
+  mapping: title                      # identify discussions by post title
+  strict: 1                           # use strict identification mode
+  reactions_enabled: 1                # enable (1) or disable (0) emoji reactions
+  input_position: bottom              # whether to display input form below (bottom) or above (top) the comments
+  theme: preferred_color_scheme       # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
   lang: en
 
@@ -158,9 +158,9 @@ disqus_shortname: yuangpeng # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+#   - name: medium.com
+#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -257,7 +257,8 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  # enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled: [year]
   layouts:
     year: archive-year
     tag: archive-tag
