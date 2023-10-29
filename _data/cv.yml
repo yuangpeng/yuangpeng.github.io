@@ -1,65 +1,33 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Computer Science
+      institution: Tsinghua University, Beijing, China
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advised by # <a href="https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN">Shutao Xia</a>.
+    - title: B.S. in Computer Science
+      institution: Wuhan University, Wuhan, China
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Summa cum laude. (rank 1/162)
+        - National scholarship (top 1%)
+        - # <b> Finalist</b> in the MCM/ICM (Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling).
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: Foundation Model Group, Megvii (Face++), Beijing, China
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Advised by <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en">Xiangyu Zhang</a> and <a href="https://scholar.google.com/citations?user=hJ-VrrIAAAAJ&hl=en">Zheng Ge</a>.
+
+    - title: Research Intern
+      institution: Shanghai Artificial Intelligence Laboratory, Shanghai, China
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Advised by <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en">Xiangyu Zhang</a> and <a href="https://scholar.google.com/citations?user=hJ-VrrIAAAAJ&hl=en">Zheng Ge</a>.
 
 - title: Open Source Projects
   type: time_table

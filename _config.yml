@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Yuang Peng # the website title (if blank, full name will be used instead)
 first_name: Yuang
 middle_name:
 last_name: Peng
 # email: yuangpeng.cn@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  The personal website of Yang Song.
+  The personal website of Yuang Peng.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: Yuang Peng, AI, artificial intelligence, generative model, large language model  # add your own keywords or leave empty
@@ -17,8 +17,8 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yuangpeng.com # the base hostname & protocol for your site
-# baseurl: /al-folio # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
+baseurl: # the subpath of your site, e.g. /blog/
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -124,9 +124,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Yuang Peng's learning notes # blog_name will be displayed in your blog page
+blog_name: Learning Notes # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
