@@ -25,12 +25,18 @@
           {%- else -%}
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
+          {%- if entry.award -%}
+          <span class="award badge">{{entry.award}}</span>
+          {%- endif -%}
+          {%- if entry.award2 -%}
+          <span class="award badge">{{entry.award2}}</span>
+          {%- endif -%}
         {%- endif -%}
         </div>
         {%- endif -%}
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
+        <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-9{% else %}col-sm-10{% endif %}">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
@@ -136,6 +142,18 @@
           {{ entry.note | strip }}
         </div>
 
+          {%- if entry.honor -%}
+          <span class="honor">
+            {{entry.honor}}
+          </span>
+          {%- endif -%}
+
+          {%- if entry.honor2 -%}
+          <br>
+          <span class="honor">
+            {{entry.honor2}}
+          </span>
+          {%- endif -%}
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
@@ -186,6 +204,9 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.media %}
+            <a href="{{ entry.media }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Media</a>
           {%- endif %}
           </div>
           {% if site.enable_publication_badges %}

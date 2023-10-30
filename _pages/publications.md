@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: (&#x2A denotes equal contribution"
+title: Publications
+description: (&#x2A) denotes equal contribution
 nav: true
 nav_order: 2
 ---

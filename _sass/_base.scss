@@ -255,6 +255,9 @@ blockquote {
 
   .navbar-brand {
     color: var(--global-text-color);
+    &:hover {
+      color: var(--global-hover-color);
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -349,10 +352,10 @@ blockquote {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -369,6 +372,7 @@ blockquote {
   }
 
   .contact-note {
+    text-align: left;
     font-size: 0.8rem;
   }
 }
@@ -689,6 +693,8 @@ footer.sticky-bottom {
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
+          padding-left: 0.75rem;
+          padding-right: 0.75rem;
         }
       }
 
@@ -727,11 +733,18 @@ footer.sticky-bottom {
         a.btn {
           color: var(--global-text-color);
           border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          // padding-left: 1rem;
+          // padding-right: 1rem;
+          // padding-top: 0.25rem;
+          // padding-bottom: 0.25rem;
+          // margin-left: 0;
+
+          padding-left: 0.35rem;
+          padding-right: 0.35rem;
+          padding-top: 0.1rem;
+          padding-bottom: 0.1rem;
+          margin-left: 0rem;
+          margin-right: 0rem;
 
           &:hover {
             color: var(--global-theme-color);
@@ -753,6 +766,10 @@ footer.sticky-bottom {
             text-decoration: underline;
           }
         }
+      }
+      .honor {
+        color: var(--global-theme-color);
+        font-weight: bolder;
       }
 
       .hidden {
