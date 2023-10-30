@@ -1,4 +1,8 @@
 
           <div class="publications">
+            <!-- <h2>selected publications <a href="publications/">[full list]</a></h2>
+            (*) denotes equal contribution
+            <br>
+            <br> -->
             {% bibliography -f {{ site.scholar.bibliography }} --group_by none --query @*[selected=true]* %}
           </div>

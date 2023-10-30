@@ -3,63 +3,82 @@
   contents:
     - title: M.S. in Computer Science
       institution: Tsinghua University, Beijing, China
-      year: 2023
+      year: 2023-2026
       description:
-        - Advised by # <a href="https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN">Shutao Xia</a>.
+        - Advised by <a href="https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN">Shutao Xia</a> and <a href="https://scholar.google.com.hk/citations?user=Yl0wv7AAAAAJ&hl=zh-CN">Bin Chen</a>.
     - title: B.S. in Computer Science
       institution: Wuhan University, Wuhan, China
-      year: 2019
+      year: 2019-2023
       description:
-        - Summa cum laude. (rank 1/162)
-        - National scholarship (top 1%)
-        - # <b> Finalist</b> in the MCM/ICM (Mathematical Contest in Modeling/Interdisciplinary Contest in Modeling).
+        - <em> Summa cum laude (rank 1/162).</em>
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Intern
       institution: Foundation Model Group, Megvii (Face++), Beijing, China
-      year: 2022
+      year: 2022-Now
       description:
         - Advised by <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en">Xiangyu Zhang</a> and <a href="https://scholar.google.com/citations?user=hJ-VrrIAAAAJ&hl=en">Zheng Ge</a>.
+        - Mainly researching generative models and large language models.
 
     - title: Research Intern
       institution: Shanghai Artificial Intelligence Laboratory, Shanghai, China
-      year: 2022
+      year: 2022 Summer
       description:
-        - Advised by <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en">Xiangyu Zhang</a> and <a href="https://scholar.google.com/citations?user=hJ-VrrIAAAAJ&hl=en">Zheng Ge</a>.
+        - Advised by <a href="https://scholar.google.com/citations?hl=en&user=OZ7PjVoAAAAJ">Dequan Wang</a>, my inspiring teacher in Computer Vision. Grateful for the invaluable time spent together.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Visiting Scholar
+      institution: Artificial Intelligence Group, University of Cambridge, Cambridge, UK
+      year: 2021 Winter
+      description:
+        - Advised by <a href="https://scholar.google.com/citations?user=4YhNJBEAAAAJ&hl=en">Pietro Liò</a>.
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2019-2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - National Scholarship (top 1%)
+        - Huawei Scholarship 2022
+        - Excellent Graduate, Wuhan University
+        - <b>Finalist</b> in the International Mathematical Contest in Modeling
+        - Silver Medal in National College Student Algorithm Design and Programming Challenge
+        - Second prize in "Blue Bridge Cup" National Algorithm Competition
+    # - year: 2023-2026
+    #   items:
+    #     - Waiting
 
-- title: Academic Interests
-  type: nested_list
+- title: Talks
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Mixture of Experts
+      year: 2023 Spring
+      description: An introductory presentation about the mixture of experts theory.
+    - title: Diffusion Model
+      year: 2022 Winter
+      description: An introductory presentation about the diffusion model theory.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
