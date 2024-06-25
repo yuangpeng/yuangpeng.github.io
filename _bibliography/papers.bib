@@ -1,12 +1,24 @@
 ---
 ---
 
+@article{peng2024dreambench,
+    title={DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation},
+    author={Yuang Peng* and Yuxin Cui* and Haomiao Tang* and Zekun Qi and Runpei Dong and Jing Bai and Chunrui Han and Zheng Ge and Xiangyu Zhang and Shu-Tao Xia},
+    journal={arXiv preprint arXiv:2307.09474},
+    year={2024},
+    abbr={arXiv},
+    abstract={Personalized image generation holds great promise in assisting humans in everyday work and life due to its impressive function in creatively generating personalized content. However, current evaluations either are automated but misalign with humans or require human evaluations that are time-consuming and expensive. In this work, we present DreamBench++, a human-aligned benchmark automated by advanced multimodal GPT models. Specifically, we systematically design the prompts to let GPT be both human-aligned and self-aligned, empowered with task reinforcement. Further, we construct a comprehensive dataset comprising diverse images and prompts. By benchmarking 7 modern generative models, we demonstrate that DreamBench++ results in significantly more human-aligned evaluation, helping boost the community with innovative findings.},
+    pdf={https://arxiv.org/abs/2307.09474},
+    url={https://dreambenchplus.github.io/},
+    selected={true},
+}
+
 @article{dong2023dreamllm,
   title={Dreamllm: Synergistic multimodal comprehension and creation},
   author={Dong*, Runpei and Han*, Chunrui and Peng, Yuang and Qi, Zekun and Ge, Zheng and Yang, Jinrong and Zhao, Liang and Sun, Jianjian and Zhou, Hongyu and Wei, Haoran and Kong, Xiangwen and Zhang, Xiangyu and Ma, Kaisheng and Li, Yi},
-  journal={arXiv preprint arXiv:2309.11499},
+  journal={ICLR Spotlight Presentation (4.96%)},
   year={2023},
-  abbr={arXiv},
+  abbr={ICLR},
   abstract={This paper presents DreamLLM, a learning framework that first achieves versatile Multimodal Large Language Models (MLLMs) empowered with frequently overlooked synergy between multimodal comprehension and creation. DreamLLM operates on two fundamental principles. The first focuses on the generative modeling of both language and image posteriors by direct sampling in the raw multimodal space. This approach circumvents the limitations and information loss inherent to external feature extractors like CLIP, and a more thorough multimodal understanding is obtained. Second, DreamLLM fosters the generation of raw, interleaved documents, modeling both text and image contents, along with unstructured layouts. This allows DreamLLM to learn all conditional, marginal, and joint multimodal distributions effectively. As a result, DreamLLM is the first MLLM capable of generating free-form interleaved content. Comprehensive experiments highlight DreamLLM's superior performance as a zero-shot multimodal generalist, reaping from the enhanced learning synergy.},
   pdf={https://arxiv.org/abs/2309.11499},
   selected={true}
@@ -15,9 +27,9 @@
 @article{zhao2023chatspot,
   title={Chatspot: Bootstrapping multimodal llms via precise referring instruction tuning},
   author={Zhao*, Liang and Yu*, En and Ge, Zheng and Yang, Jinrong and Wei, Haoran and Zhou, Hongyu and Sun, Jianjian and Peng, Yuang and Dong, Runpei and Han, Chunrui and Zhang, Xiangyu},
-  journal={arXiv preprint arXiv:2307.09474},
+  journal={IJCAI Long Oral Presentation (4%)},
   year={2023},
-  abbr={arXiv},
+  abbr={IJCAI},
   abstract={Human-AI interactivity is a critical aspect that reflects the usability of multimodal large language models (MLLMs). However, existing end-to-end MLLMs only allow users to interact with them through language instructions, leading to the limitation of the interactive accuracy and efficiency. In this study, we present precise referring instructions that utilize diverse reference representations such as points and boxes as referring prompts to refer to the special region. This enables MLLMs to focus on the region of interest and achieve finer-grained interaction. Based on precise referring instruction, we propose ChatSpot, a unified end-to-end multimodal large language model that supports diverse forms of interactivity including mouse clicks, drag-and-drop, and drawing boxes, which provides a more flexible and seamless interactive experience. We also construct a multi-grained vision-language instruction-following dataset based on existing datasets and GPT-4 generating. Furthermore, we design a series of evaluation tasks to assess the effectiveness of region recognition and interaction. Experimental results showcase ChatSpot's promising performance.},
   pdf={https://arxiv.org/abs/2307.09474},
   selected={true}
@@ -26,9 +38,10 @@
 @article{han2023exploring,
   title={Exploring recurrent long-term temporal fusion for multi-view 3d perception},
   author={Han, Chunrui and Sun, Jianjian and Ge, Zheng and Yang, Jinrong and Dong, Runpei and Zhou, Hongyu and Mao, Weixin and Peng, Yuang and Zhang, Xiangyu},
-  journal={arXiv preprint arXiv:2303.05970},
+  journal={IEEE Robotics and Automation Letters},
   year={2023},
-  abbr={arXiv},
+  abbr={IEEE RA-L},
   abstract={Long-term temporal fusion is a crucial but often overlooked technique in camera-based Bird's-Eye-View (BEV) 3D perception. Existing methods are mostly in a parallel manner. While parallel fusion can benefit from long-term information, it suffers from increasing computational and memory overheads as the fusion window size grows. Alternatively, BEVFormer adopts a recurrent fusion pipeline so that history information can be efficiently integrated, yet it fails to benefit from longer temporal frames. In this paper, we explore an embarrassingly simple long-term recurrent fusion strategy built upon the LSS-based methods and find it already able to enjoy the merits from both sides, i.e., rich long-term information and efficient fusion pipeline. A temporal embedding module is further proposed to improve the model's robustness against occasionally missed frames in practical scenarios. We name this simple but effective fusing pipeline VideoBEV. Experimental results on the nuScenes benchmark show that VideoBEV obtains leading performance on various camera-based 3D perception tasks, including object detection (55.4% mAP and 62.9% NDS), segmentation (48.6% vehicle mIoU), tracking (54.8% AMOTA), and motion prediction (0.80m minADE and 0.463 EPA). Code will be available.},
   pdf={https://arxiv.org/abs/2303.05970},
+  selected={true}
 }
