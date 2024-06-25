@@ -5,4 +5,3 @@ inline: true
 ---
 
 Introduce [DreamBench++](https://dreambenchplus.github.io): A Human-Aligned Benchmark for Personalized Image Generation
-```
